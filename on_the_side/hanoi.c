@@ -18,7 +18,6 @@ int main(void)
     return 0;
 }
 
-
 void hanoi(int n, char from, char via, char to)
 {
     if (0 == n)
